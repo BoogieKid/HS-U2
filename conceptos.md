@@ -1,6 +1,6 @@
 Nombre del integrante: MANUEL ARRIBALZAGA HERNANDEZ
 
-## Conceptos a resumir (con tus propias palabras):
+## Conceptos a resumir:
 
 - **Qué es GitHub**  
 GitHub es la plataforma web más popular para alojar proyectos y código fuente que utilizan Git. Funciona como un servicio de hosting que le da una interfaz gráfica, herramientas de colaboración social (como seguimiento de problemas y revisiones de código) y un lugar central a los repositorios de Git. Esencialmente, es la red social y el hogar de millones de proyectos de software en el mundo.
