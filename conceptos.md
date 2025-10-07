@@ -1,4 +1,4 @@
-Nombre del integrante: [Tu Nombre Aquí]
+Nombre del integrante: MANUEL ARRIBALZAGA HERNANDEZ
 
 ## Conceptos a resumir (con tus propias palabras):
 
@@ -30,7 +30,3 @@ Una vez usé GitHub para guardar de forma segura cada etapa de mi tesis de grado
 
 Ejemplo 2:
 Gracias a Git, pude compartir mi proyecto de desarrollo web con otros compañeros para recibir feedback. Les di acceso a mi repositorio de GitHub, y ellos pudieron crear sus propias ramas a partir de mi código. Ahí, me sugirieron cambios a través de un pull request, donde usaron la función de comentarios línea por línea para indicarme las áreas a mejorar. Esto fue mucho más eficiente que enviar archivos por correo, ya que el historial de feedback quedó ligado permanentemente al código.
-
-
-- **Ejemplo 2:**  
-  Gracias a Git, pude...
